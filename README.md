@@ -38,7 +38,7 @@ Installation:-
 
 Clone the repository :-
 
-
+    https://github.com/Alllok/Password-Complexity-Checker.git
 
 
 Navigate to the project directory :-
